@@ -1,0 +1,19 @@
+{
+    "admin_list" : [
+        {
+            "display_name" : "Elena",
+            "identifier" : "ElenaOnWater",
+            "admin_role" : "Event organiser."
+        },
+        {
+            "display_name" : "Vera",
+            "identifier" : "VeraOnFire",
+            "admin_role" : "Event organiser."
+        },
+        {
+            "display_name" : "Thomas",
+            "identifier" : "ThomasEsc",
+            "admin_role" : "Bot developper (only contact me for technical problem)."
+        }
+    ]
+}
